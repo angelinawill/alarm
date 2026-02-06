@@ -7,4 +7,4 @@ logs/
 
 
 /*.json
-!settings.example.json
+!settings.ex.json

@@ -1,0 +1,28 @@
+{
+    "debug": {
+        "verbose": 1,
+        "log_to_file": true,
+        "log_dir": "logs/"
+    },
+    "general": {
+        "save_locally": true
+    },
+    "bot": {
+        "token": "<MY TOKEN>",
+        "channel_id": "<MY CHANNEL ID>",
+        "user_id": "<MY USER ID>"
+    },
+    "alert": {
+        "timezone": "America/New_York",
+        "snooze_time": 1800,
+        "times": [
+            "08:00"
+        ],
+        "max_snoozes": 10,
+        "alert_msg": "{m} Timer up {n}!!!",
+        "alert_msg_snooze": "{m} Snoozed {min} minutes, {n}. Will alert again in {sec} seconds.",
+        "alert_msg_ack": "{m} Alert acknowledged, {n}!",
+        "alert_msg_max_snoozes": "{m} Max snoozes reached ({max_snoozes}). Alert dismissed for {n}.",
+        "wait_for_prev_ack": true
+    }
+}
