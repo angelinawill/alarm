@@ -15,8 +15,8 @@
     "alert": {
         "timezone": "Asia/Hong_Kong",
         "times": [
-            "0:24"
+            "0:23"
         ],
-        "alert_msg": "(Test)當鋪已更新",
+        "alert_msg": "(Test)當鋪已更新"
     }
 }
