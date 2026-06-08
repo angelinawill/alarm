@@ -14,11 +14,9 @@
     },
     "alert": {
         "timezone": "Asia/Hong_Kong",
-        "snooze_time": 1800,
         "times": [
-            "08:00"
+            "0:11"
         ],
-        "max_snoozes": 10,
-        "alert_msg": "{m} Timer up {n}!!!",
+        "alert_msg": "(Test)當鋪已更新",
     }
 }
