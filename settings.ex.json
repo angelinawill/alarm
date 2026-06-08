@@ -9,13 +9,13 @@
     },
     "bot": {
         "token": "<MY TOKEN>",
-        "channel_id": "<MY CHANNEL ID>",
+        "channel_id": "當鋪BOT",
         "user_id": "<MY USER ID>"
     },
     "alert": {
         "timezone": "Asia/Hong_Kong",
         "times": [
-            "0:11"
+            "0:16"
         ],
         "alert_msg": "(Test)當鋪已更新",
     }
